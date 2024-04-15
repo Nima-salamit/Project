@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IPQiY8fa/pGqSQRU3uoKA6F7wuWZ6b51T6ef2vknlcue1y3Yi7U3+jcoiDmZ/1Z0gVaNXfYup1xFuSdBZ9JFYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Java\\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\D.Nima\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\D.Nima\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\D.Nima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\D.Nima\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
