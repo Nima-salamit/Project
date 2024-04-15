@@ -13,7 +13,7 @@ age = Convert.ToInt32(Console.ReadLine());
 // Process
 int workingYearsRemaining = retiermentAge - age;
 Console.WriteLine($"Full name: {name}");
-Console.WriteLine($"Age: {age}");
-Console.WriteLine($"Working years remaining: {workingYearsRemaining}");
+Console.WriteLine($"Your Age: {age}");
+Console.WriteLine($"Working years that remaining: {workingYearsRemaining}");
 
 
