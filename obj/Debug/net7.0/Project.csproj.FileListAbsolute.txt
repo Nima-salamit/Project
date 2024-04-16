@@ -12,3 +12,4 @@ D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-
 D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\obj\Debug\net7.0\Project.pdb
 D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
 D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\obj\Debug\net7.0\ref\Project.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\obj\Debug\net7.0\Project.sourcelink.json
