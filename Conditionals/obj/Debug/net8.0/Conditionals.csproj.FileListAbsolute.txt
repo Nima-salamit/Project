@@ -1,0 +1,15 @@
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\bin\Debug\net8.0\Conditionals.exe
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\bin\Debug\net8.0\Conditionals.deps.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\bin\Debug\net8.0\Conditionals.runtimeconfig.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\bin\Debug\net8.0\Conditionals.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\bin\Debug\net8.0\Conditionals.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\Conditionals.AssemblyInfoInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\Conditionals.AssemblyInfo.cs
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\Conditionals.csproj.CoreCompileInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\Conditionals.sourcelink.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\Conditionals.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\refint\Conditionals.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\Conditionals.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\Conditionals.genruntimeconfig.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\Conditionals\obj\Debug\net8.0\ref\Conditionals.dll
