@@ -19,4 +19,6 @@ else
     Console.WriteLine("Student has failed.");
 }
 
+string passStatus = grade < 50 ? "Fail" : "Pass";
+Console.WriteLine("Status: " + passStatus);
 Console.WriteLine("Thanks for using our app");
