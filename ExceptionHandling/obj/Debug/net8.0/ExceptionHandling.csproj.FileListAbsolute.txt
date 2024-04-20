@@ -1,0 +1,15 @@
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.sourcelink.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
