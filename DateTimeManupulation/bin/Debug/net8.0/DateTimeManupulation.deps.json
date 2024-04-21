@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DateTimeManupulation/1.0.0": {
+        "runtime": {
+          "DateTimeManupulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DateTimeManupulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

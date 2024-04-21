@@ -1,0 +1,15 @@
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\bin\Debug\net8.0\DateTimeManupulation.exe
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\bin\Debug\net8.0\DateTimeManupulation.deps.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\bin\Debug\net8.0\DateTimeManupulation.runtimeconfig.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\bin\Debug\net8.0\DateTimeManupulation.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\bin\Debug\net8.0\DateTimeManupulation.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\DateTimeManupulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\DateTimeManupulation.AssemblyInfoInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\DateTimeManupulation.AssemblyInfo.cs
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\DateTimeManupulation.csproj.CoreCompileInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\DateTimeManupulation.sourcelink.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\DateTimeManupulation.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\refint\DateTimeManupulation.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\DateTimeManupulation.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\DateTimeManupulation.genruntimeconfig.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\DateTimeManupulation\obj\Debug\net8.0\ref\DateTimeManupulation.dll
