@@ -1,0 +1,15 @@
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\bin\Debug\net8.0\myStringtype.exe
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\bin\Debug\net8.0\myStringtype.deps.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\bin\Debug\net8.0\myStringtype.runtimeconfig.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\bin\Debug\net8.0\myStringtype.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\bin\Debug\net8.0\myStringtype.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\myStringtype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\myStringtype.AssemblyInfoInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\myStringtype.AssemblyInfo.cs
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\myStringtype.csproj.CoreCompileInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\myStringtype.sourcelink.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\myStringtype.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\refint\myStringtype.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\myStringtype.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\myStringtype.genruntimeconfig.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\myStringtype\obj\Debug\net8.0\ref\myStringtype.dll
