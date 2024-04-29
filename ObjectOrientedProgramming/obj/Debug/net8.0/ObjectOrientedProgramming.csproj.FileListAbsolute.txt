@@ -1,0 +1,15 @@
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.exe
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.deps.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.runtimeconfig.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.AssemblyInfo.cs
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.sourcelink.json
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\refint\ObjectOrientedProgramming.dll
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.pdb
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.genruntimeconfig.cache
+D:\Java\Udemy  C# Console and Windows Forms Development w Entity Framework 2024-2\Project\ObjectOrientedProgramming\obj\Debug\net8.0\ref\ObjectOrientedProgramming.dll
