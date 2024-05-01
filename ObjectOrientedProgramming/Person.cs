@@ -29,6 +29,7 @@ public class Person
 
     // Field
     private string _taxtNumber;
+    protected string _idNumber = "N/A";
     public void PrintFullName()
     {
         Console.WriteLine($"{FirstName} {LastName}");
@@ -45,7 +46,7 @@ public class Person
     {
         if (string.IsNullOrEmpty(_taxtNumber))
         {
-            _taxtNumber = RandomNumberGenerator.GetInt32(10000, 999999).ToString();
+            _taxtNumber = GetRandomNumber();
         }
     }
 
@@ -54,17 +55,27 @@ public class Person
         return _taxtNumber;
     }
 
+    public string GetIdNUmber()
+    {
+        return _idNumber;
+    }
+
     public int GetAge()
     {
         var age = DateTime.Now.Year - DateOfBirth.Year;
         return age;
     }
 
-// Method Overloading
+    // Method Overloading
     public int GetAge(int year)
     {
         var age = year - DateOfBirth.Year;
         return age;
+    }
+
+    protected string GetRandomNumber()
+    {
+        return RandomNumberGenerator.GetInt32(100, 900).ToString();
     }
 }
 

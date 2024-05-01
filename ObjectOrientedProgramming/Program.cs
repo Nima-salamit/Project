@@ -23,4 +23,25 @@ var person1  = new Person("John", "Yapson", new DateOnly(2000, 11, 2));
 person1.PrintFullName();
 person1.PrintInitial();
 
+var teacher = new Teacher();
+teacher.FirstName = "Messi";
+teacher.LastName = "Masive";
+teacher.PrintFullName();
+teacher.GenerateTeacherIdNumber();
+var teacherIdNumber = teacher.GetIdNUmber();
+Console.WriteLine(teacherIdNumber);
 
+var student = new Student();
+student.FirstName = "Ronaldo";
+student.LastName = "tan";
+student.PrintFullName();
+student.GenerateStudentIdNumber();
+var studentIdNumber = student.GetIdNUmber();
+Console.WriteLine(studentIdNumber);
+
+
+Rectangle rectangle = new(10, 20);
+var rectangleArea = rectangle.Area();
+
+Square square = new(50);
+var squareArea = square.Area();
